@@ -5,3 +5,5 @@ C-x, 3	Split window horizontally
 C-x, ^	Grow window vertically
 C-x, o	Switch to next window
 C-x, 0	Close current window
+
+M-x term	Makes the current window a emulate a terminal (TERMINAL)

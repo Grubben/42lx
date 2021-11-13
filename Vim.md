@@ -1,3 +1,10 @@
+### Editting Files
+```
+:e <file-name>
+```
+Much better than `:open`!!!
+
+
 ### Comment/Uncommenting
 For those tasks I use most of the time block selection.
 
@@ -10,3 +17,8 @@ For commenting a block of text is almost the same:
 	Then press Esc (give it a second), and it will insert a # character on all other selected lines.
 
 For the stripped-down version of vim shipped with debian/ubuntu by default, type : s/^/# in the third step instead (any remaining highlighting of the first character of each line can be removed with :nohl).
+
+### Windows
+
+#### for a terminal window
+```:term``` and then ```. ~/.bash_profile```

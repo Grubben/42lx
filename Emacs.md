@@ -1,0 +1,6 @@
+## Windows
+C-x, 1	Make current window only window
+C-x, 2	Split window vertically
+C-x, 3	Split window horizontally
+C-x, o	Switch to next window
+C-x, 0	Close current window

@@ -18,5 +18,6 @@ and then `git add` the folder
 ## Ammending
 ```
 git add <file>
-git commit --amend
+git commit --amend --no-edit
 ```
+To change commit-message remove `--no-edit`

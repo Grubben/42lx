@@ -1,3 +1,8 @@
+## Git -> starting
+```
+git init -b main
+```
+
 ## Git Submodules
 
 ### Adding

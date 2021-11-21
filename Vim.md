@@ -21,4 +21,14 @@ For the stripped-down version of vim shipped with debian/ubuntu by default, type
 ### Windows
 
 #### for a terminal window
-```:term``` and then ```. ~/.bash_profile```
+```:term
+```
+and then
+```. ~/.bash_profile
+```
+
+
+## Find and Replace
+:[range]s/{pattern}/{string}/[flags] [count]
+```:%s/old/new/g
+```

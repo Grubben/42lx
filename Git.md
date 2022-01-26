@@ -12,7 +12,7 @@ git submodule add <link>
 
 #### Updating
 ```
-git submodule update --remote
+git submodule update --remote --merge
 ```
 or
 ```
